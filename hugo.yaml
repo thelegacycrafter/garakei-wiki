@@ -1,0 +1,34 @@
+baseURL: https://garakei.wiki/
+params:
+  contact:
+    email: info@example.org
+    phone: +1 202-555-1212
+  subtitle: The Best Widgets on Earth
+title: Garakei Wiki
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  de:
+    contentDir: content/fr
+    disabled: false
+    languageCode: fr-FR
+    languageDirection: ltr
+    languageName: Français
+    params:
+      subtitle: Stuff
+    title: Wiki Keitai
+    weight: 1
+    booklogo: 'android-chrome-192x192.png'
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Garakei Wiki
+    weight: 2
+    booklogo: 'android-chrome-192x192.png'
+    BookSection: "*"
