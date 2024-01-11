@@ -6,6 +6,13 @@ description: "Garakei Wiki's contributor standards."
 # Garakei Wiki Standards
 Garakei Wiki has a set of standards to ensure wiki pages behave identically.
 
+# Github Conduct
+If you're going to start working on something, please create an issue and state you will be working on it
+.
+eg: A phone page should be made on the Samgsung Galaxy Folder 2. Create an issue and state you will be working on it.
+
+This ensures everyone knows what everyone else is up to.
+
 # Manufacturer Pages
 Manufacturer Pages should have the following information, at minimum:
 1. A logo of the company

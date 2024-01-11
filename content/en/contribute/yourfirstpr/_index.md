@@ -14,10 +14,12 @@ Hugo is our backend-framework that generates the website from the markdown files
 ## Step 2. Make a fork of Garakei Wiki & clone
 Fork the garakei wiki into your own repository. This essentially makes a copy that you can modify independently. Then, clone your forked repository into your desktop.
 
-You can modify or add whatever at this point, but i'll be demonstrating how to make a new page. 
-## Step 3. Let's create a new page.
-Let's create a new page for a new phone, the Sharp Aquos SH-01J. 
+You can modify or add whatever at this point, but i'll be demonstrating how to make a new page. Let's create a new page for a new phone, the Sharp Aquos SH-01J. 
 
+## Step 3. Create a new issue
+First, create an issue on our main repository stating a page on the Sharp Aquos SH-01J should be made, and that you will be working on it. This keeps everyone in the know and will save a few headaches.
+
+## Step 4. Let's create a new page.
 First, create a hugo dev server by running `hugo server --theme hugo-book` in the repository's root directory.
 
 {{< hint info >}}
@@ -66,7 +68,7 @@ and sharp & tour phone should be accessible.
 
 ![Alt text](image-3.png)
 
-## Step 4. Make it pretty.
+## Step 5. Make it pretty.
 Now that we know how to set up a new page, let's talk about how to make it pretty. You should read our [standards page](/en/contribute/standards/)
 
 Check out the [Kyocera](/en/phones/kyocera/) and [902KC/903KC](/en/phones/kyocera/Digno%203%2090XKC/) for a good example on how to stylize your pages.
@@ -102,6 +104,6 @@ A few other things to note:
 You can use [shortcodes](/en/shortcodes/) to use special elements.
 
 Other collaborators will be able to work with you on changes and modifications.
-## Step 5. Ready to send it off!
+## Step 6. Ready to send it off!
 
-Once you've tested your pages, you can stage and commit to your forked repository and make a pull request in the Garakei repository. 
+Once you've tested your pages, you can stage and commit to your forked repository and make a pull request in the Garakei repository, mentioning/linking the issue you made in the beginning. 
