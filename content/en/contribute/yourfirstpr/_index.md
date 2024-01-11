@@ -17,8 +17,9 @@ Fork the garakei wiki into your own repository. This essentially makes a copy th
 You can modify or add whatever at this point, but i'll be demonstrating how to make a new page. Let's create a new page for a new phone, the Sharp Aquos SH-01J. 
 
 ## Step 3. Create a new issue
-First, create an issue on our main repository stating a page on the Sharp Aquos SH-01J should be made, and that you will be working on it. This keeps everyone in the know and will save a few headaches.
+First, let's make sure no one else is working on it first by checking the issues tab. If not, create an issue on our main repository stating a page on the Sharp Aquos SH-01J should be made, and that you will be working on it. This keeps everyone in the know and will save a few headaches.
 
+See this [sample issue](https://github.com/false-fox/garakei-wiki/issues/3) here.
 ## Step 4. Let's create a new page.
 First, create a hugo dev server by running `hugo server --theme hugo-book` in the repository's root directory.
 
