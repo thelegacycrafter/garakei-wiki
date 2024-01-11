@@ -74,34 +74,6 @@ Now that we know how to set up a new page, let's talk about how to make it prett
 
 Check out the [Kyocera](/en/phones/kyocera/) and [902KC/903KC](/en/phones/kyocera/Digno%203%2090XKC/) for a good example on how to stylize your pages.
 
-For a good contribution, at minimum Manufacturer pages should have:
-- A link to their website,
-- A link to a wikipedia page,
-- A logo,
-- A summary.
-
-And a phone page should have, at least:
-
-- A photo of the phone,
-- A summary.
-- A list of specs,
-- a link to a manual in the language the page is in.
-
-For a phone page to make a great contribution, it should:
-- Have tips and insight from your own experiences,
-- Information on connectivity to western networks,
-- Extending our APK and Connectivity guides (i.e providing phone-specific information),
-- Have links to reviews, both positive and negative,
-- Have generally detailed information.
-- Provide warnings and hints
-
-The phone page should not:
-- Repeat information in the introduction, APK guide or connectivity guide, it should link to them.
-
-A few other things to note:
-- Images should be public domain, or otherwise usable under fair use
-- Links to files (i.e manuals) should have a mirror link to the internet archive
-
 You can use [shortcodes](/en/shortcodes/) to use special elements.
 
 Other collaborators will be able to work with you on changes and modifications.
