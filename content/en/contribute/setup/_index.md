@@ -1,6 +1,6 @@
 ---
 weight: 0
-title: "Setting locally Hugo"
+title: "Setting up locally"
 ---
 # Setup locally
 It's easy to setup a local version of Garakei wiki, and just requires you to install the Hugo framework and pull the repository.
@@ -24,7 +24,7 @@ Follow [Hugo's installation guide](https://gohugo.io/installation/linux/). You c
 ## Download repository
 Clone the [garakei wiki repository](https://github.com/false-fox/garakei-wiki) using your preferred method.
 
-### Run server
+## Run server
 CD into the cloned directory using a terminal and run `hugo server --theme hugo-book` to run a dev environment. The local server will be available on your web broswer with the address localhost:1313. That's it. Any edits you make will make the web page reload and appear automatically.
 
 A small note to make is you need to restart the dev environment every time you do something that affects the sidebar, like creating a new page, or changing a page/category's name.

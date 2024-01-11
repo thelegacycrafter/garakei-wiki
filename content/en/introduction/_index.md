@@ -13,4 +13,4 @@ Keitai literally translates to "cell phone", and is used to refer to cellphones 
 Japanese has it's own term to refer to feature phones, "Garakei". coming from the japanese "[Galápagos Syndrome](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_syndrome)" and "Keitai" (mobile phone).
 
 From the Wiki Creator, falsefox, explaining their decision to use Garakei:
-> While Keitai is the common term for feature phones in english-speaking spaces, Japan has their own term Garakei for feature phones in specific and "Keitai" emcompasses phones as a whole. It's not exactly *wrong* to use Keitai to refer to feature phones, but Garakei makes more sense and I find it honors the japanese language better.
+> Keitai literally just translates to phone. Feels weird to just call it "phone wiki". Garakei makes more sense, so now it translates to "feature phone wiki". Although I do recognize "keitai" is a frequently used term for featurephones, that's why we also have the domain keitai.wiki.

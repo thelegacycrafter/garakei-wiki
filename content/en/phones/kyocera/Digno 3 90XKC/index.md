@@ -12,7 +12,9 @@ The Kyocera Digno 3 Ketai 902KC/903KC model, referred to collectively as the 90X
 The 90XKC runs Android 8.1, and is lower-spec. Some modern apps and google services
 won't work, but this is considered a good thing if you're purchasing for privacy or digital minimalism.
 
-Luckily, the 90XKC has APK Support. You'll need to manually find and install APKs. It's recommended you visit our [APKs](/content/en/introduction/apks/) page to find good APKs.
+Luckily, the 90XKC has APK Support. You'll need to manually find and install APKs and install them using ADB. It's recommended you visit our [APKs](/en/introduction/apks/) page.
+
+Most modern and unoptimized apps will work very slowly due to the low-spec, and the small-screen and lack of arrow navigation on some apps will force you to use the pointer in an awkward way.
 
 ## Specifications
 At a glance, 90XKC features USB-C charging, Android 8.1 and Wifi 2.4GHz and Bluetooth 4.2.
@@ -51,15 +53,25 @@ At a glance, 90XKC features USB-C charging, Android 8.1 and Wifi 2.4GHz and Blue
 {{< hint warning >}}
 It is imperative that you purchased an UNLOCKED or SIM FREE phone if you won't be using the locked in provider. Otherwise, you'll have a headache trying to unlock the phone and might need to pay someone in Japan to do the process for you.
 {{< /hint >}}
+The 903KC model is a Y!Mobile with [these specs](https://www.ymobile.jp/lineup/band/pdf/903kc_band.pdf ) [[mirror](https://web.archive.org/web/20230821070446/https://www.ymobile.jp/lineup/band/pdf/903kc_band.pdf)], while the 902KC is a Softbank model with [these specs](https://www.softbank.jp/biz/set/data/mobile/lineup/keitai/digno_keitai3_for_biz/specs/pdf/digno_keitai3_for_biz.pdf) [[mirror](https://web.archive.org/web/20230726131218/https://www.softbank.jp/biz/set/data/mobile/lineup/keitai/digno_keitai3_for_biz/specs/pdf/digno_keitai3_for_biz.pdf)]. The specifications are what radio frequencies ranges ("bands") the phone can connect to. 
+
 Generally, the 90XKC is compatible with western carriers using 4G & LTE. Configuration and double checking is necessary, it's highly recommended that you view our [connectivity guide](/content/en/connectivity/) to learn about APNs and confirming support. 
 
-The 903KC model is a Y!Mobile with [these specs](https://www.ymobile.jp/lineup/band/pdf/903kc_band.pdf ) [[mirror](https://web.archive.org/web/20230821070446/https://www.ymobile.jp/lineup/band/pdf/903kc_band.pdf)], while the 902KC is a Softbank model with [these specs](https://www.softbank.jp/biz/set/data/mobile/lineup/keitai/digno_keitai3_for_biz/specs/pdf/digno_keitai3_for_biz.pdf) [[mirror](https://web.archive.org/web/20230726131218/https://www.softbank.jp/biz/set/data/mobile/lineup/keitai/digno_keitai3_for_biz/specs/pdf/digno_keitai3_for_biz.pdf)]. The specifications are what radio frequencies ranges ("bands") the phone can connect to. 
+### Carrier Support
+This is community reported, and there have been outliers, so take this with a grain of salt and do your own research with our connectivity guide.
+
+Carrier | Models | Compatibility | Notes
+|--|--|--|--|
+|T-Mobile/Mint | 902KC & 903KC | Almost Perfect | May need APN. GPS and Picture texting may not work.|
+
+
+
+### APN Settings
 
 You can change your APN by going to this settings menu:
  `Settings --> Wireless/Network --> Cellular Network --> Access Point Names`
-
-Users have had 
 ## Tips
+
 
 ## Links & Manual
 [English User Manual](https://faq.api.softbank.jp/olm_images/sb/136/PDF/digno-keitai3_en_userguide.pdf) [[Mirror](https://web.archive.org/web/20231021195947/https://faq.api.softbank.jp/olm_images/sb/136/PDF/digno-keitai3_en_userguide.pdf)]
