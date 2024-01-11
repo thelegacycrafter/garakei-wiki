@@ -1,6 +1,7 @@
 ---
 weight: 0
 title: "Your first pull request"
+desription: "A beginner's guide to contributing to garakei wiki."
 ---
 # Your First Pull Request
 Do you know how to use github? Can you clone a repository, make some changes, then create a pull request on the repository? Can you fork a repository? If so, you're ready to go.

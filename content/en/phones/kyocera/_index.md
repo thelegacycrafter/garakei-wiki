@@ -1,5 +1,7 @@
 ---
 title: "Kyocera"
+description: "Details on the Japanese electronics company Kyocera Corporation."
+
 ---
 # Kyocera Corporation
 ![Kyocera Logo](/img/kyocera/1116px-Kyocera_logo.svg.png)

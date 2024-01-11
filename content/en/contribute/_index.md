@@ -1,6 +1,7 @@
 ---
 weight: 0
 title: "Contribute"
+description: "How you can contribute to Garakei Wiki"
 bookCollapseSection: true
 ---
 # Contributing

@@ -1,7 +1,7 @@
 ---
 weight: 20
 title: "Connectivity"
-description: "How to connect your new Keitai/Garakei to a western phone network."
+description: "How to connect your new keitai to a western phone network."
 ---
 # Connectivity
 In this page, everything relating to getting your keitai up and running outside of Japan is covered.

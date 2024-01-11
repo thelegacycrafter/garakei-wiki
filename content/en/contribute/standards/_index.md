@@ -1,6 +1,7 @@
 ---
 weight: 0
 title: "Standards"
+description: "Garakei Wiki's contributor standards."
 ---
 # Garakei Wiki Standards
 Garakei Wiki has a set of standards to ensure wiki pages behave identically.

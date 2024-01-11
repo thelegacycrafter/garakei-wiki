@@ -1,6 +1,7 @@
 ---
 weight: 0
 title: "Setting up locally"
+description: "Set up a local version of Garakei Wiki"
 ---
 # Setup locally
 It's easy to setup a local version of Garakei wiki, and just requires you to install the Hugo framework and pull the repository.
