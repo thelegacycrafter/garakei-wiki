@@ -23,7 +23,7 @@ You don't need to use the terminal either, [Github Desktop](https://desktop.gith
 
 ### 3. Read our guide
 
-After you know how to use github and a markdown editor, follow our [guide for new contributors.](/content/en/contribute/yourfirstpr/)
+After you know how to use github and a markdown editor, follow our [guide for new contributors.](/en/contribute/yourfirstpr/)
 
 ## What phones do you cover?
 Garakei.wiki is specifically to cover feature phones, particularly of japanese origin. 

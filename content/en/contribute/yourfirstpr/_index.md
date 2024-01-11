@@ -17,8 +17,9 @@ Fork the garakei wiki into your own repository. This essentially makes a copy th
 You can modify or add whatever at this point, but i'll be demonstrating how to make a new page. Let's create a new page for a new phone, the Sharp Aquos SH-01J. 
 
 ## Step 3. Create a new issue
-First, create an issue on our main repository stating a page on the Sharp Aquos SH-01J should be made, and that you will be working on it. This keeps everyone in the know and will save a few headaches.
+First, let's make sure no one else is working on it first by checking the issues tab. If not, create an issue on our main repository stating a page on the Sharp Aquos SH-01J should be made, and that you will be working on it. This keeps everyone in the know and will save a few headaches.
 
+See this [sample issue](https://github.com/false-fox/garakei-wiki/issues/3) here.
 ## Step 4. Let's create a new page.
 First, create a hugo dev server by running `hugo server --theme hugo-book` in the repository's root directory.
 
@@ -72,34 +73,6 @@ and sharp & tour phone should be accessible.
 Now that we know how to set up a new page, let's talk about how to make it pretty. You should read our [standards page](/en/contribute/standards/)
 
 Check out the [Kyocera](/en/phones/kyocera/) and [902KC/903KC](/en/phones/kyocera/Digno%203%2090XKC/) for a good example on how to stylize your pages.
-
-For a good contribution, at minimum Manufacturer pages should have:
-- A link to their website,
-- A link to a wikipedia page,
-- A logo,
-- A summary.
-
-And a phone page should have, at least:
-
-- A photo of the phone,
-- A summary.
-- A list of specs,
-- a link to a manual in the language the page is in.
-
-For a phone page to make a great contribution, it should:
-- Have tips and insight from your own experiences,
-- Information on connectivity to western networks,
-- Extending our APK and Connectivity guides (i.e providing phone-specific information),
-- Have links to reviews, both positive and negative,
-- Have generally detailed information.
-- Provide warnings and hints
-
-The phone page should not:
-- Repeat information in the introduction, APK guide or connectivity guide, it should link to them.
-
-A few other things to note:
-- Images should be public domain, or otherwise usable under fair use
-- Links to files (i.e manuals) should have a mirror link to the internet archive
 
 You can use [shortcodes](/en/shortcodes/) to use special elements.
 

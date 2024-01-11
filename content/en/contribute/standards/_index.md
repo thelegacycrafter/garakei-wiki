@@ -7,11 +7,15 @@ description: "Garakei Wiki's contributor standards."
 Garakei Wiki has a set of standards to ensure wiki pages behave identically.
 
 # Github Conduct
-If you're going to start working on something, please create an issue and state you will be working on it
-.
-eg: A phone page should be made on the Samgsung Galaxy Folder 2. Create an issue and state you will be working on it.
 
-This ensures everyone knows what everyone else is up to.
+## Working on the wiki
+If you want to work on something, say creating a new page for a phone, create an issue stating what needs to be done, then in the body describe it a bit more and say you're going to work on it.
+
+You should make a fork of the repository and do your work there, and link it in your issue.
+
+You should allow other people to collaborate and work in your repository.
+
+Once you're done, make a pull request and mention your issue by number.
 
 # Manufacturer Pages
 Manufacturer Pages should have the following information, at minimum:
