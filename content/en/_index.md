@@ -13,7 +13,7 @@ Garakei Wiki is the community-maintained, open source website for japanese flip 
 
 Use the search bar, switch languages or browse categories using the left navigation bar, or use these quick links:
 
-{{< button relref="/introduction" >}}Novice's Guide{{< /button >}} {{< button relref="/phones" >}}List of phones{{< /button >}} 
+{{< button relref="/introduction" >}} Novice's Guide {{< /button >}} {{< button relref="/contribute" >}} Contribute {{< /button >}} 
 
 
 The Wiki Webmaster is [falsefox](https://github.com/false-fox) and our github is located [here](https://github.com/false-fox/garakei-wiki).
