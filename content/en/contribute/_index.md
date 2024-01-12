@@ -8,7 +8,7 @@ bookCollapseSection: true
 Garakei Wiki is an open-source, non-profit and community mantained wiki documenting Japanese flip phones, or Garakei. We're glad you want to contribute, here's everything you need to know before starting
 
 ## Where do you operate?
-We operate entirely on [Github](https://github.com/). A social media community wouldn't really fit the spirit of a feature phone group, so we use [Github Discussions](https://github.com/false-fox/garakei-wiki/discussions) as a sort of forum. Feel free to use it and ask questions, give suggestions etc.
+We operate on [Github](https://github.com/). A social media community wouldn't really fit the spirit of a feature phone group, but we still need to coordinate so you can join our collaborator [Discord Server](https://discord.gg/yHtwXvZp3X), or use [Github Discussions](https://github.com/false-fox/garakei-wiki/discussions) as a sort of forum. Feel free to use it and ask questions, give suggestions etc.
 
 ## What do I need to know before starting?
 Garakei Wiki is explicitly designed for non-programmers to contribute, while allowing programmers and web developers freedom and versitility.
