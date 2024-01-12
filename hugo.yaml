@@ -1,4 +1,4 @@
-baseURL: https://garakei.wiki/
+baseURL: https://dev.garakei.wiki/
 params:
   contact:
     email: info@example.org
