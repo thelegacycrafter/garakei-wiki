@@ -6,7 +6,7 @@ description: "Specifications, connectivity info, tips, reviews and manuals for t
 ---
 # Kyocera Digno 3 902KC/903KC.
 ![Alt text](902KC3__71796.jpg)
-The Kyocera Digno 3 Ketai 902KC/903KC model, referred to collectively as the 90X, is a 2020 flip phone manufactured by Kyocera, a japanese electronics company. The 90X is praised by digital minimalists as a capable android feature phone, and one of the few that works with western carriers (almost) out of the box.
+The Kyocera Digno 3 Ketai 902KC/903KC model, referred to collectively as the 90X, is a 2020 flip phone manufactured by Kyocera, a Japanese electronics company. The 90X is praised by digital minimalists as a capable android feature phone, and one of the few that works with western carriers (almost) out of the box.
 
 ## Software Support
 The 90XKC runs Android 8.1, and is lower-spec. Some modern apps and google services
@@ -27,7 +27,7 @@ At a glance, 90XKC features USB-C charging, Android 8.1 and Wifi 2.4GHz and Blue
 | GPU | 8GB  |   |    
 | ROM Storage: | 8GB  |   |      
 | Wifi & Bluetooth: | Wifi 02.11 b/g/n (2.4GHz) w/ tethering, Bluetooth 4.2   |  
-| Battery Capacity: | 1,700mAh  |  |      
+| Battery Capacity: | 1,700mAh KYBAQ1 |  |      
 | Camera | 8MP CMOS  |  |      
 | SD Card: | Up to 32GB  |   |   
 | Display | Approximately 3.4 inch full wide VGA LCD|   |     
@@ -63,15 +63,15 @@ This is community reported, and there have been outliers, so take this with a gr
 Carrier | Models | Compatibility | Notes
 |--|--|--|--|
 |T-Mobile/Mint | 902KC & 903KC | Almost Perfect | May need APN. GPS and Picture texting may not work.|
-
-
+|AT&T | 902KC & 903KC | Limited Support | Needs APN, data only|
+|Verizon | 902KC & 903KC | Unknown | Unknown.|
 
 ### APN Settings
 
 You can change your APN by going to this settings menu:
  `Settings --> Wireless/Network --> Cellular Network --> Access Point Names`
 ## Tips
-
+Press and hold the side key for manner mode (silent mode).
 
 ## Links & Manual
 [English User Manual](https://faq.api.softbank.jp/olm_images/sb/136/PDF/digno-keitai3_en_userguide.pdf) [[Mirror](https://web.archive.org/web/20231021195947/https://faq.api.softbank.jp/olm_images/sb/136/PDF/digno-keitai3_en_userguide.pdf)]
